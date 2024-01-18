@@ -5,7 +5,7 @@ A fun game developed in Python using Pygame.
 - `poetry install`
 - `poetry run python Sklenda.py`
 
-## Rules
+# Rules
 This game has a similar principle to tic-tac-toe.  
 You are provided with a board 4x4 and 16 "rocks". Your objective is to match a group of 4 same rocks, either horizontally in line or vertically in line. Square 2x2 also counts. Each rock is somehow different.  
 They have 4 parameters:
